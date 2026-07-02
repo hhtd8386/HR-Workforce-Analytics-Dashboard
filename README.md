@@ -12,7 +12,6 @@ The workflow includes:
 
 - Data cleaning and preprocessing using Python
 - Data transformation with Power Query
-- KPI development using DAX
 - Interactive dashboard design in Power BI
 - Business-oriented workforce analysis
 
