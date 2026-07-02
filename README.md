@@ -154,16 +154,10 @@ Help HR identify recruitment bottlenecks and improve hiring quality.
 
 - Data Cleaning
 - Data Transformation
-- Exploratory Data Analysis (EDA)
-- KPI Development
 - DAX Measures
 - Power Query
 - Dashboard Design
-- Business Intelligence
-- HR Analytics
 - Interactive Reporting
-- Data Storytelling
-
 ---
 
 # 📁 Project Structure
