@@ -1,4 +1,4 @@
-# HR Analytics Dashboard | Python & Power BI
+# HR Workforce Analytics Dashboard | Python & Power BI
 
 An end-to-end HR analytics project that demonstrates the complete data analysis workflow, from data cleaning and preprocessing with Python to building an interactive multi-page Power BI dashboard for workforce analysis and business decision support.
 
@@ -169,7 +169,7 @@ Help HR identify recruitment bottlenecks and improve hiring quality.
 # 📁 Project Structure
 
 ```text
-HR-Analytics-PowerBI/
+HR Workforce Analytics/
 │
 ├── data/
 │   ├── Data.xlsx
